@@ -1,2 +1,2 @@
 node_modules/
-!node_modules/code2.txt
+!/node_modules/code2.txt
