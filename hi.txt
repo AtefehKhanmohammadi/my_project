@@ -1,4 +1,7 @@
 hello world!
 I'm Atefeh Khanmohammadi and I wanna learn Git, Git Hub and Git Lab.
 Let's have fun!
-I am such a good learner :) :)
+I am such a good learner :) :)\
+
+Epilepsy is a chronic brain disease that is characterized by irregular cases of unconsciousness and is associated with severe seizures. According to the report of the World Health Organization, more than 70 million people worldwide have epilepsy.
+About 30% of patients do not respond well to antiepileptic drugs or experience adverse effects.
