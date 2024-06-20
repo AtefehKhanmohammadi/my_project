@@ -1,5 +1,5 @@
 hello world!
 I'm Atefeh Khanmohammadi and I wanna learn Git, Git Hub and Git Lab.
 Let's have fun!
-I am such a good learner :) :)
+
 I am still learning Git with Videos on roocket.ir
